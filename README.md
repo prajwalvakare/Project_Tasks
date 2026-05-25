@@ -1,2 +1,2 @@
-# Blackfrog_tasks
+# Internship_tasks
 1 month tasks with stm32
